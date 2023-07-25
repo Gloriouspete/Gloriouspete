@@ -1,18 +1,19 @@
-# Hello, I'm Gloriouspete! 👋
+# Hello, I'm Glö! 👋
 
 ## About Me
-I'm a passionate web developer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I enjoy creating robust and user-friendly web applications. My programming journey began with HTML, CSS, and JavaScript, and I have since delved into backend development with Node.js and database management using MySQL. 
+I'm a passionate web and App developer with expertise in the MERRNN (MySQL, Express.js, React.js,React Native, Node.js) stack. I enjoy creating robust and user-friendly applications. My programming journey began with HTML, CSS, and JavaScript, and I have since delved into backend development with Node.js and database management using MySQL. 
 
 ## Skills
 - Frontend: HTML5, CSS3, JavaScript, React.js
 - Backend: Node.js, Express.js
+- App development: React Native, Expo
 - Database: MySQL
 - Version Control: Git, GitHub
 
 ## Projects
-- [Rant Hq](Not deployed but Available in Repo): A social media application that respects privacy.
+- [Rant Hq](Not deployed but Available in Repo): A social media application that allows buying and selling.
 - [My portfolio](gloriouspete.netlify.app): My portfolio when I just started.
-- [Project 3](link-to-project-3): Brief description of the project.
+- [Noki Mobile] : A data selling utility Android & iOS application
 
 ## Experience
 - King fancy technologies: Web developer and maintainer, Current.
