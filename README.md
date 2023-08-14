@@ -2,7 +2,8 @@
 
 ## About Me
 I'm a passionate web and App developer with expertise in the MERRNN (MySQL, Express.js, React.js,React Native, Node.js) stack. I enjoy creating robust and user-friendly applications. My programming journey began with HTML, CSS, and JavaScript, and I have since delved into backend development with Node.js and database management using MySQL. 
-  ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+  ![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 ## Skills
 - Frontend: HTML5, CSS3, JavaScript, React.js
 - Backend: Node.js, Express.js
