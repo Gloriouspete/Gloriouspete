@@ -6,6 +6,9 @@ I'm a passionate web and App developer with expertise in the MERRNN (MySQL, Expr
 ht![Badge](https://img.shields.io/badge/any_text-you_like-blue)
 
 ## Skills
+ ![Badge](https://img.shields.io/badge/web3-red)
+
+- Solidity 
 - Frontend: HTML5, CSS3, JavaScript, React.js
 - Backend: Node.js, Express.js
 - App development: React Native, Expo
