@@ -1,23 +1,51 @@
 # Hello, I'm Glö! 👋
 
 ## About Me
-I'm a passionate web and App developer with expertise in the MERRNN (MySQL, Express.js, React.js,React Native, Node.js) stack. I enjoy creating robust and user-friendly applications. My programming journey began with HTML, CSS, and JavaScript, and I have since delved into backend development with Node.js and database management using MySQL. 
-  ![Static Badge](https://img.shields.io/badge/:badgeContent)
-ht![Badge](https://img.shields.io/badge/any_text-you_like-blue)
+I'm a passionate Web,Blockchain and App developer with expertise in the MERRNN (MySQL, Express.js, React.js,React Native, Node.js) stack. I enjoy creating robust and user-friendly applications.
+My programming journey began with HTML, CSS, and JavaScript, and I have since delved into more complex developments.
+
+![Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgloriouspete%2Fhit-counter)
+
+![Start](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gloriouspete&theme=radical)
+
 
 ## Skills
- ![Badge](https://img.shields.io/badge/web3-red)
+**Blockchain**
 
-- Solidity 
-- Frontend: HTML5, CSS3, JavaScript, React.js
-- Backend: Node.js, Express.js
-- App development: React Native, Expo
-- Database: MySQL
-- Version Control: Git, GitHub
+ ![Badge](https://img.shields.io/badge/SOLIDITY-ffffff?style=for-the-badge&logo=solidity&logoColor=black)
+ 
+**Frontend** 
+
+![Badge](https://img.shields.io/badge/Css3-1572b6?style=for-the-badge&logo=css3)
+![Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript)
+![Badge](https://img.shields.io/badge/ReactJS-202321?style=for-the-badge&logo=react)
+
+**Backend** 
+
+![Badge](https://img.shields.io/badge/NodeJS-white?style=for-the-badge&logo=nodedotjs)
+![Badge](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=express)
+
+**App development**
+
+![Badge](https://img.shields.io/badge/REACT_NATIVE-20232a?style=for-the-badge&logo=react)
+
+![Badge](https://img.shields.io/badge/Expo-white?style=for-the-badge&logo=expo&logoColor=black)
+
+**Database**
+
+![Badge](https://img.shields.io/badge/MySQL-005c84?style=for-the-badge&logo=mysql)
+
+![Badge](https://img.shields.io/badge/Mongo_DB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+**Version Control**
+
+![Badge](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git)
+
+![Badge](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)
+
 
 ## Projects
 - [Rant Hq](Not deployed but Available in Repo): A social media application that allows buying and selling.
-- [My portfolio](gloriouspete.netlify.app): My portfolio when I just started.
+- [My portfolio](https://baddestglo.vercel.app): My portfolio.
 - [Noki Mobile] : A data selling utility Android & iOS application
 
 ## Experience
