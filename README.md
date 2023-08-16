@@ -36,6 +36,8 @@ My programming journey began with HTML, CSS, and JavaScript, and I have since de
 ![Badge](https://img.shields.io/badge/MySQL-005c84?style=for-the-badge&logo=mysql)
 
 ![Badge](https://img.shields.io/badge/Mongo_DB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 **Version Control**
 
 ![Badge](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git)
