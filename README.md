@@ -5,7 +5,11 @@ I'm a passionate Web,Blockchain and App developer with expertise in the MERRNN (
 My programming journey began with HTML, CSS, and JavaScript, and I have since delved into more complex developments.
 
 ![Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgloriouspete%2Fhit-counter)
+
+
 ![Badge](https://github-readme-streak-stats.herokuapp.com/?user=gloriouspete&theme=algolia)
+
+
 ![Start](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gloriouspete&theme=radical)
 
 
