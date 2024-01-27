@@ -1,8 +1,7 @@
 # Hello, I'm Glö! 👋
 
 ## About Me
-I'm a passionate Web,Blockchain and App developer with expertise in the MERRNN (MySQL, Express.js, React.js,React Native, Node.js) stack. I enjoy creating robust and user-friendly applications.
-My programming journey began with HTML, CSS, and JavaScript, and I have since delved into more complex developments.
+A passionate Web,Blockchain and App developer with expertise in the MERRNN (MySQL, Express.js, React.js,React Native, Node.js) stack. I enjoy creating robust and user-friendly applications.
 
 ![Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgloriouspete%2Fhit-counter)
 
